@@ -3,18 +3,15 @@ Excel Based Project in this project we will Clean and Transform data for further
 Excel-Data-Analysis-Dashboard-Project
 This repository contains my work in Microsoft Excel.
 
-Ecommerce Store Data using excel to analyze Sales
-Sales dashboard built using excel
-1.Prerequisites
-Basic Knowledge of Pivot Tables, custom and conditional formatting in Excel, Data Cleaning, Processing and Analysis
+Data Quality Assurance: Implement data cleaning, validation, and standardization processes to ensure accurate and reliable data for analysis.
 
-2.Sales Dashboard
-I have utilized following items in building sales dashboard which analyzes products sales in diff. Channel, gender etc .
+Sales Channel Effectiveness: Evaluate the performance of different sales channels to allocate resources effectively and maximize sales revenue.
 
-Pivot Tables
-Pivot Chart
-Data Refresh
-Data Table
-Slicers
+Order Fulfillment Optimization: Improve order processing and delivery efficiency to ensure a higher percentage of orders are successfully delivered.
+
+Sales Performance Analysis: Analyze sales data to understand trends, identify high-performing products, and optimize inventory management.
+
+Business Insights Generation: Generate actionable insights from sales and order data to make informed decisions and drive business growth.
+
 
 
